@@ -1,0 +1,9 @@
+D:\MyProgs\C_sharp\Base64.NET\bin\Debug\WinFormTest.exe.config
+D:\MyProgs\C_sharp\Base64.NET\obj\Debug\WinFormTest.exe
+D:\MyProgs\C_sharp\Base64.NET\obj\Debug\WinFormTest.pdb
+D:\MyProgs\C_sharp\Base64.NET\bin\Debug\WinFormTest.exe
+D:\MyProgs\C_sharp\Base64.NET\bin\Debug\WinFormTest.pdb
+D:\MyProgs\C_sharp\Base64.NET\obj\Debug\Base64.NET.csprojResolveAssemblyReference.cache
+D:\MyProgs\C_sharp\Base64.NET\obj\Debug\WinFormTest.Form1.resources
+D:\MyProgs\C_sharp\Base64.NET\obj\Debug\WinFormTest.Properties.Resources.resources
+D:\MyProgs\C_sharp\Base64.NET\obj\Debug\Base64.NET.csproj.GenerateResource.Cache
